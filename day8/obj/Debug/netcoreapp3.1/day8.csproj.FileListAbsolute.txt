@@ -1,0 +1,13 @@
+C:\Users\kotha\source\repos\day8\bin\Debug\netcoreapp3.1\day8.exe
+C:\Users\kotha\source\repos\day8\bin\Debug\netcoreapp3.1\day8.deps.json
+C:\Users\kotha\source\repos\day8\bin\Debug\netcoreapp3.1\day8.runtimeconfig.json
+C:\Users\kotha\source\repos\day8\bin\Debug\netcoreapp3.1\day8.runtimeconfig.dev.json
+C:\Users\kotha\source\repos\day8\bin\Debug\netcoreapp3.1\day8.dll
+C:\Users\kotha\source\repos\day8\bin\Debug\netcoreapp3.1\day8.pdb
+C:\Users\kotha\source\repos\day8\obj\Debug\netcoreapp3.1\day8.csproj.AssemblyReference.cache
+C:\Users\kotha\source\repos\day8\obj\Debug\netcoreapp3.1\day8.AssemblyInfoInputs.cache
+C:\Users\kotha\source\repos\day8\obj\Debug\netcoreapp3.1\day8.AssemblyInfo.cs
+C:\Users\kotha\source\repos\day8\obj\Debug\netcoreapp3.1\day8.csproj.CoreCompileInputs.cache
+C:\Users\kotha\source\repos\day8\obj\Debug\netcoreapp3.1\day8.dll
+C:\Users\kotha\source\repos\day8\obj\Debug\netcoreapp3.1\day8.pdb
+C:\Users\kotha\source\repos\day8\obj\Debug\netcoreapp3.1\day8.genruntimeconfig.cache
